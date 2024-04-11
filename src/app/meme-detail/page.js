@@ -1,3 +1,4 @@
+"use client"
 import { useSearchParams } from "next/navigation";
 import { useState, createRef, useEffect } from "react";
 import { exportComponentAsJPEG } from "react-component-export-image";
